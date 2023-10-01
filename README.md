@@ -12,6 +12,9 @@
 
 尽管功能较少，但我们会一直保持更新。
 
+## 下载
+前往[Releases](https://github.com/TopexStudio/Topex-Toolkit/releases)页下载。
+
 ## 编译
 
 该软件采用易语言编写，如果你想要编译该软件，请准备以下环境：
