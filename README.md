@@ -18,13 +18,14 @@
 尽管功能较少，但我们会一直保持更新。
 
 ## 下载
-前往[Releases](https://github.com/TopexStudio/Topex-Toolkit/releases)页下载。
+前往 [Releases](https://github.com/TopexStudio/Topex-Toolkit/releases) 页下载。
 
 ## 编译
 
 该软件采用易语言编写，如果你想要编译该软件，请准备以下环境：
 
-- Windows XP 和以上版本的电脑
+- Windows 7 和以上版本的电脑
+- `Consolas` 字体
 - 易语言 5.93
 
 同时，该软件引用了部分[精易模块](https://bbs.125.la)的代码，请在编辑/引用代码时遵守相关协议。
