@@ -1,6 +1,6 @@
 # Topex-Toolkit
 
-**Topex Toolkit**是LAGSNES和KFACBT共同开发的一款面向`Windows`的工具箱。该软件是[KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit)的延续，也是NEO-Control的脱胎换骨。
+**Topex Toolkit**是LAGSNE、KFACBT、Linker共同开发的一款面向`Windows`的工具箱。该软件是[KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit)的延续，也是NEO-Control的脱胎换骨。
 
 ## 功能
 
