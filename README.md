@@ -35,6 +35,7 @@
 本软件采用`Apache License 2.0`协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
 ## 其它
- - [公告API](https://topexstudio.github.io/Topex-Toolkit/API/GetAnnouncement_gbk)
- - [Apache License 2.0](https://topexstudio.github.io/apachelicense2)
- - [开发准则](https://topexstudio.github.io/Topex-Toolkit/devloper-rule)
+ - [公告API](https://topexstudio.top/Topex-Toolkit/API/GetAnnouncement_gbk)
+ - [更新API](https://topexstudio.top/Topex-Toolkit/API/LastVersion)
+ - [Apache License 2.0](https://topexstudio.top/apachelicense2)
+ - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule)
