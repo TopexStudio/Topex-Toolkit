@@ -36,4 +36,4 @@
 
 ## 其它
  - [Apache License 2.0](https://topexstudio.github.io/apachelicense2)
- - [开发准则](https://topexstudio.github.io/Topex-Toolkit/devloper-rule)
+ - [开发准则](https://topexstudio.github.io/Topex-Toolkit/Devloper-Rule)
