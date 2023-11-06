@@ -1,6 +1,6 @@
 # Topex-Toolkit
 
-**Topex Toolkit**是LAGSNE、KFACBT、Linker共同开发的一款面向 `Windows` 的工具箱。该软件是[KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit)的延续，也是NEO-Control的脱胎换骨。
+**Topex Toolkit** 是 LAGSNES、KFACBT、Panda Chen 共同开发的一款面向 `Windows` 的工具箱。该软件是 [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit) 的延续，也是 NEO-Control 的脱胎换骨。
 
 ## 功能
 
@@ -13,7 +13,7 @@
 - [x] 网域管理
 - [x] TTS功能
 - [x] 系统管理功能
-- [ ] 文本加密功能
+- [x] 文本加密功能
 
   ...
 
@@ -30,11 +30,11 @@
 - `Consolas` 字体
 - 易语言 5.93
 
-同时，该软件引用了部分[精易模块](https://ec.125.la/)的代码，请在编辑/引用代码时遵守相关协议。
+同时，该软件引用了部分 [精易模块](https://ec.125.la/) 的代码，请在编辑/引用代码时遵守相关协议。
 
 ## 协议
 
-本软件采用`Apache License 2.0`协议，在分发、修改软件时**必须要标注**源码来源和原作者。
+本软件采用 `Apache License 2.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
 ## 其它
  - [公告API](https://topexstudio.top/Topex-Toolkit/API/GetAnnouncement_gbk)
