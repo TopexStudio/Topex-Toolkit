@@ -17,7 +17,7 @@
 
   ...
 
-尽管功能较少，但我们会一直保持更新。
+尽管功能较少，我们会一直保持更新。
 
 ## 下载
 前往 [Releases](https://github.com/TopexStudio/Topex-Toolkit/releases) 页下载。
