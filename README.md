@@ -1,3 +1,6 @@
+# 郑重声明
+"蓝云工具箱" 软件擅自使用本软件原创 UI 风格，且未声明原版软件，已违反 Apache License 2.0 开源协议，希望原作者可以道歉！
+
 # Topex-Toolkit
 
 **Topex Toolkit** 是 LAGSNES、KFACBT、Panda Chen 共同开发的一款面向 `Windows` 的工具箱。该软件是 [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit) 的延续，也是 NEO-Control 的脱胎换骨。
